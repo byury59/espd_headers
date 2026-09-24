@@ -1,0 +1,4 @@
+from espd_headers.app import main
+
+if __name__ == '__main__':
+    main()
